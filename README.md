@@ -2,4 +2,6 @@
 
 <img align="left" src="Images\PascalScript.jpg"/>
 
-This project shows how to work with the PascalScript Engine from RemObjects. This test application shows how to connect and configure components in run-time mode.
+The program shows how to run a Pascal script in Delphi, pass variables and types to a script. The whole process works asynchronously, in threads.
+
+The following article summarizes an experience using RemObjects PascalScript to run scripts in Delphi: My experience using RemObjects [PascalScript to run scripts in Delphi.](https://www.clevercomponents.com/articles/article052/)
