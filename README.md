@@ -8,4 +8,5 @@ The following article summarizes an experience using RemObjects PascalScript to 
 
 ## How to compile
 
-Clone the following GitHub repository and add a link to the ...pascalscript\Source folder to the Delphi Library Paths option.
+Clone the following GitHub repository and add a link to the ...pascalscript\Source folder to the Delphi Library Paths option:
+https://github.com/remobjects/pascalscript
